@@ -2,7 +2,8 @@
 
 [![Python Version](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
-[![Platform](https://img.shields.io/badge/platform-macOS%20%7C%20Linux-lightgrey.svg)](https://github.com/yourusername/hantek1008b)
+[![Platform](https://img.shields.io/badge/platform-macOS%20%7C%20Linux-lightgrey.svg)](https://github.com/imediacorp/Hantek-10008B)
+[![Release](https://img.shields.io/github/v/release/imediacorp/Hantek-10008B)](https://github.com/imediacorp/Hantek-10008B/releases)
 
 A Python library for controlling the Hantek 1008B 8-channel USB oscilloscope on macOS and Linux. This driver was reverse-engineered from USB protocol captures and provides full control over the device.
 
@@ -258,11 +259,19 @@ This software is provided "as is" without warranty. The authors are not affiliat
 ## Support
 
 For issues, questions, or contributions:
-- Open an issue on the repository
-- Check `PROTOCOL.md` for protocol details
-- Review `EXAMPLES.md` for usage examples
+- Open an issue on the [GitHub repository](https://github.com/imediacorp/Hantek-10008B/issues)
+- Check protocol documentation for details
+- Review examples in the `examples/` directory
+
+## Latest Release
+
+**v1.0.0** - [View Release](https://github.com/imediacorp/Hantek-10008B/releases/tag/v1.0.0)
+
+First public release with full cross-platform support for macOS and Linux.
 
 ---
 
 **Made for the community, by the community** 🎉
+
+**Repository**: https://github.com/imediacorp/Hantek-10008B
 
